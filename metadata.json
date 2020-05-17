@@ -2,9 +2,9 @@
   "name": "sharpie-pp",
   "version": "0.1.0",
   "author": "Charlie Sharpsteen",
-  "summary": "",
+  "summary": "Pretty printing for Bolt results.",
   "license": "Apache-2.0",
-  "source": "",
+  "source": "https://github.com/Sharpie/bolt-pp",
   "dependencies": [
 
   ],
